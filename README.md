@@ -194,15 +194,3 @@ and compare **Observed** vs **Expected** using a **χ² (chi‑square) goodness�
 * Configurable **partial‑update batch size**
 * Additional tests (first‑digit, three‑digit, mantissa) and side‑by‑side comparisons
 
----
-
-## License
-
-Add your preferred license (e.g., MIT).
-
----
-
-## Credits
-
-* Binance REST APIs: Spot & Futures
-* Benford law references in forensic auditing research
