@@ -1,4 +1,4 @@
-# Benford-law-visualization-Binance-API
+# Benford-law-visualization
 
 <img width="2068" height="1069" alt="image" src="https://github.com/user-attachments/assets/1c9ab343-21e1-42e1-aedb-4ca56e89fdc8" />
 
