@@ -2,7 +2,7 @@
 
 <img width="2068" height="1069" alt="image" src="https://github.com/user-attachments/assets/1c9ab343-21e1-42e1-aedb-4ca56e89fdc8" />
 
-Interactive PyQt6 app that fetches **executed trades** from Binance (Spot and USDT perpetual futures), builds a **Benford distribution** for the **first two significant digits** (10..99), and visualizes four panels for a **main window** and a **control window** — for both **Spot** and **Futures**. It supports **aggregated trades** (`aggTrades`) and **raw trades** (`historicalTrades` / `trades`), incremental CSV writes, and a χ² (chi‑square) goodness‑of‑fit test.
+* Interactive PyQt6 app that fetches **executed trades** from Binance (Spot and USDT perpetual futures), builds a **Benford distribution** for the **first two significant digits** (10..99), and visualizes four panels for a **main window** and a **control window** — for both **Spot** and **Futures**. It supports **aggregated trades** (`aggTrades`) and **raw trades** (`historicalTrades` / `trades`), incremental CSV writes, and a χ² (chi‑square) goodness‑of‑fit test.
 ---
 
 ## Features
