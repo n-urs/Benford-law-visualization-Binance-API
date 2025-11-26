@@ -1,0 +1,6 @@
+PyQt6
+matplotlib
+pandas
+requests
+python-dotenv
+scipy    # optional
